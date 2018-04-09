@@ -2,6 +2,10 @@
 
 ![](https://pp.userapi.com/c844723/v844723121/21e60/YEM994YaML4.jpg)
 
+Задание 1 часть 2
+
+![](https://pp.userapi.com/c844723/v844723710/279f1/9qSNEGMznHs.jpg)
+
 
 Задание 1 часть 2
 
