@@ -1,3 +1,8 @@
+Задание 1 часть 1
+
+![](https://pp.userapi.com/c844723/v844723121/21e60/YEM994YaML4.jpg)
+
+
 Задание 1 часть 2
 
 ![](https://sun9-4.userapi.com/c840728/v840728522/6e179/3gF5GiuIYWA.jpg)
