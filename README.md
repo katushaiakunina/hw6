@@ -27,3 +27,14 @@
 + Следует заметить, что оба синонима наиболее часто употребляются с дополнениями "er, nothing, something, thing, night, joe". Например : "They can't just sit there and saying nothing" и "As an answer it told her nothing". Но есть и такие дополнения, с которыми употребляется только один из глаголов. например :" I never said a word !" и "He told the jury that the crime was motiveless"
 
 *Задание 3 (бонусное)*
+ 
+- **Google Ngram**
+ 
+![](https://pp.userapi.com/c844723/v844723764/21466/5dUF6JyMB-4.jpg)
+
+- **BNC**
+
+![](https://pp.userapi.com/c844723/v844723764/2146e/ajikBUzpbVU.jpg)
+
++ Проанализировав данные, я могу сделать вывод о том, что частотность употребления этого слова не резка, она плавно увеличивалась с каждым годом, хотя были разкие спады и подъемы тоже, но не весомого характера. Данные в Google Ngram и в BNC различаются, так как там разные методы построения, в Google по годам, а в BNC по словам.
+
